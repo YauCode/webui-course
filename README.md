@@ -1,2 +1,2 @@
-# webui-course
-Web User Interface Programming Course
+# Web User Interface Programming Course
+Exercises for Web User Interface Programming Course
